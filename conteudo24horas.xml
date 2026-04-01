@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260331013256 +0800" generator-info-name="epg.pw" generator-info-url="" source-info-name="FREE EPG" source-info-url="">
-  <channel id="523305">
+<tv date="20260401230107 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/523312/20260401.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=523312&amp;date=&amp;timezone=QW1lcmljYS9TYW9fUGF1bG8=">
+  <channel id="523312">
     <display-name lang="Brazil">Conteúdo 24 horas</display-name>
     <icon src="" />
   </channel>
-  <programme channel="523305" start="20260329003000 -0300" stop="20280330020000 -0300">
+  <programme channel="523312" start="20260401005000 -0300" stop="20280401014500 -0300">
     <title lang="zh">Conteúdo 24 horas</title>
     <desc />
-    <date>2026-03-30</date>
+    <date>2026-04-01</date>
   </programme>
 </tv>
