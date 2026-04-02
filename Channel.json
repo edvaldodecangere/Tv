@@ -1,0 +1,18 @@
+{
+  "Channels": [
+    
+    {
+      "number": "1",
+      "expire-date": "0",
+      "name": "Animal Planet 4K",
+      "url": "http://cdnfonte.com:80/edvaldodecangere/Aguia9837/13949380.ts",
+      "icon": "https://raw.githubusercontent.com/edvaldodecangere/Tv/refs/heads/main/animalplanet100x100.png",
+      "radio": "0",
+      "tv_archive": "0",
+      "tv_archive_duration": "0",
+      "adulto": "0",
+      "epg": "https://raw.githubusercontent.com/edvaldodecangere/Tv/refs/heads/main/conteudo24horas.xml",
+      "category": "4K"
+    }
+  ]
+}
